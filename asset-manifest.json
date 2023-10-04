@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sergio620/comercioElectronico.git/static/css/main.8d65c9cf.css",
-    "main.js": "/sergio620/comercioElectronico.git/static/js/main.5369d156.js",
-    "index.html": "/sergio620/comercioElectronico.git/index.html",
-    "main.8d65c9cf.css.map": "/sergio620/comercioElectronico.git/static/css/main.8d65c9cf.css.map",
-    "main.5369d156.js.map": "/sergio620/comercioElectronico.git/static/js/main.5369d156.js.map"
+    "main.css": "/comercioElectronico/static/css/main.8d65c9cf.css",
+    "main.js": "/comercioElectronico/static/js/main.5369d156.js",
+    "index.html": "/comercioElectronico/index.html",
+    "main.8d65c9cf.css.map": "/comercioElectronico/static/css/main.8d65c9cf.css.map",
+    "main.5369d156.js.map": "/comercioElectronico/static/js/main.5369d156.js.map"
   },
   "entrypoints": [
     "static/css/main.8d65c9cf.css",
