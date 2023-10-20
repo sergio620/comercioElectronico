@@ -4,7 +4,9 @@ nav {
   justify-content: space-around;
   align-items: center;
   padding: 20px;
-  z-index: 999;
+  /* z-index: 999; */
+  position: relative;
+  z-index: 0;
   margin-left: 2rem;
 }
 
